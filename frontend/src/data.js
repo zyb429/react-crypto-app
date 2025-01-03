@@ -138,7 +138,7 @@ export const cryptoData = {
       totalSupply: 566552781,
       priceChange1h: -0.98,
       priceChange1d: -2.94,
-      priceChange1w: -11.17,
+      priceChange1w: -13.17,
       redditUrl: 'https://www.reddit.com/r/solana',
       websiteUrl: 'https://solana.com/',
       twitterUrl: 'https://twitter.com/solana',
